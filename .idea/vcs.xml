@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SortManagerRepository" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/main/java/com/sparta/ay" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/test/java/SortManagerTest" vcs="Git" />
   </component>
